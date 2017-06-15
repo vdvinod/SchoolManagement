@@ -1,0 +1,11 @@
+@CHARSET "ISO-8859-1";
+@font-face{
+	font-family:JosefinSans-Light;
+    src: url('../fonts/JosefinSans-Light.ttf');
+	
+}
+@font-face{
+	font-family:Junction-light;
+    src: url('../fonts/Junction-light.otf');
+	
+}
